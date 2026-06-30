@@ -1,0 +1,6 @@
+{
+  "name": "Trendhub",
+  "description": "A full-stack modern marketplace web application built with React, Supabase, and Tailwind CSS. Features an infinite scroll trending feed, authentication, product system, and seller dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
